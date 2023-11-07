@@ -1,9 +1,7 @@
    body{
     background-color: #dee4e3f5;
-
+    font-family: Helvetica;
    }
-   
-
     
     .resume-header{
         position: relative;
@@ -81,6 +79,11 @@
 
   p{
     line-height: .1;
+  }
+  .body-vertical-line{
+    height:100%;
+    width:5px;
+    background-color: #585a588e;
   }
 
   .body-right{

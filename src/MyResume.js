@@ -55,6 +55,8 @@ class MyResume extends React.Component{
                             <p><b>Date of Birth: </b>16/02/2000</p>
                             <p><b>Languages known: </b>Tamil, English</p>
                         </div>
+                        <div className="body-vertical-line">
+                        </div>
                         <div className="body-right">
                             <h3 className="body-underlined">PROJECT</h3>
                             <p><b>E-Commerce Platform: </b></p>
