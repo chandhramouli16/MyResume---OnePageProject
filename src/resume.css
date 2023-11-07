@@ -1,0 +1,92 @@
+   body{
+    background-color: #dee4e3f5;
+
+   }
+   
+
+    
+    .resume-header{
+        position: relative;
+        background-color: #cbeeefd3;
+    }
+  
+  .resume-header-left{
+    position: absolute;
+    top: 0;
+    left: 12%;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+  
+.dpPhoto{
+    position: relative;
+    width:15%;
+    left: 2%;
+}
+
+.dpP{
+    height:4.2cm;
+    width:4cm;
+    border-radius: 50%;
+}
+
+  .resume-header-right {
+    position: absolute;
+    right: 2%;
+    top: 0;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+  .resume-header-right{
+    text-align: right;
+  }
+
+  .icon{
+    height: 0.5cm;
+    width: 0.5cm;
+    
+    align-items: flex-end;
+  }
+
+  .header-line {
+    width: 100%;
+    height: 5px;
+    background-color: #585a588e;
+  }
+
+  .resume-body{
+    position: relative;
+  }
+
+  .summary{
+    position: relative;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .body-underlined{
+    text-decoration: underline;
+    font-weight: normal;
+  }
+
+  .body-left{
+    position: absolute;
+    left:0;
+    padding-left: 4%;
+    box-sizing: border-box;
+  }
+
+  p{
+    line-height: .1;
+  }
+
+  .body-right{
+    position: absolute;
+    left:51%;
+    right:0;
+    padding-right: 4%;
+    box-sizing: border-box;
+  }

@@ -1,11 +1,10 @@
 import './App.css';
+import MyResume from './MyResume';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>Hello World!!!</h2>
-      </header>
+    <div>
+      <MyResume/>
     </div>
   );
 }
